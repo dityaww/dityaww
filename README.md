@@ -15,10 +15,7 @@
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-widyatmoko-49315b252/)
-
-<p align="left">
-<a href="https://instagram.com/adittww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adittww" height="30" width="40" /></a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/adittww/)
 
 ## Skill & Tools
   > ### FrontEnd

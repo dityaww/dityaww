@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dityaww&label=Profile%20views&color=0e75b6&style=flat" alt="dityaww" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dityaww" alt="dityaww" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dityaww&hide_border=true&theme=dark" alt="dityaww" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **React.js**
 
@@ -101,10 +105,10 @@
 </p>
 
 ## Most Languange
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dityaww&show_icons=true&locale=en&layout=compact" alt="dityaww" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dityaww&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="dityaww" /></p>
 
 </br></br></br></br></br></br></br>
 
 ## Statistic
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dityaww&show_icons=true&locale=en" alt="dityaww" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dityaww&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="dityaww" /></p>
 

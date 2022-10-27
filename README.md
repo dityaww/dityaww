@@ -5,7 +5,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dityaww&hide_border=true&theme=dark" alt="dityaww" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dityaww&margin-w=25&theme=dark" alt="dityaww" />
   </a>
 </p>
 
@@ -104,11 +104,8 @@
    
 </p>
 
-## Most Languange
+## Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dityaww&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="dityaww" /></p>
 
-</br></br></br></br></br></br></br>
-
-## Statistic
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dityaww&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="dityaww" /></p>
 

@@ -1,5 +1,5 @@
 # Hi, I'm Aditya Widyatmoko
-<h3 align="center">I have Interest on Web Development especially in FrontEnd, I have skill in HTML, CSS and Javascript. And next, I will learn about Framework about FrontEnd.</h3>
+<h4 align="left">I have Interest on Web Development especially in FrontEnd, I have skill in HTML, CSS and Javascript. And next, I will learn about Framework about FrontEnd.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dityaww&label=Profile%20views&color=0e75b6&style=flat" alt="dityaww" /> </p>
 
@@ -9,14 +9,14 @@
 
 - 📫 How to reach me **widyatmokoaditya1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with Me
 <p align="left">
 <a href="https://instagram.com/adittww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adittww" height="30" width="40" /></a>
 </p>
 
-### Skill & Tools
-<p align="left">
-  <h1>FrontEnd</h1>
+## Skill & Tools
+  > ### FrontEnd
+  
   <!-- bootstraps -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -47,7 +47,10 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a>
   
-  <h1>BackEnd</h1>
+  </br>
+  </br>
+  
+  > ### BackEnd
   <!-- my-sql -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -63,7 +66,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   
-  <h1>Mobile Dev</h1>
+  </br>
+  </br>
+  
+  > ### Mobile Dev
   <!-- android -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -73,7 +79,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
   
-  <h1>Others</h1>
+  </br>
+  </br>
+  
+  > ### Others
   <!-- figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -94,7 +103,7 @@
 ## Most Languange
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dityaww&show_icons=true&locale=en&layout=compact" alt="dityaww" /></p>
 
-</br></br>
+</br></br></br></br></br></br></br>
 
 ## Statistic
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dityaww&show_icons=true&locale=en" alt="dityaww" /></p>

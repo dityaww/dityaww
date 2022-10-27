@@ -104,7 +104,9 @@
 </p>
 
 ## Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dityaww&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="dityaww" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dityaww&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="dityaww" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dityaww&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="dityaww" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dityaww&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="dityaww" /></p>
 

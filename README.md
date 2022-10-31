@@ -1,6 +1,8 @@
 # Hi, I'm Aditya Widyatmoko
 <h4 align="left">I have Interest on Web Development especially in FrontEnd, I have skill in HTML, CSS and Javascript. And next, I will learn about Framework about FrontEnd.</h4>
 
+[![@dityaaa's Holopin board](https://holopin.io/api/user/board?user=dityaaa)](https://holopin.io/@dityaaa)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dityaww&label=Profile%20views&color=0e75b6&style=flat" alt="dityaww" /> </p>
 
 <p align="left"> 
